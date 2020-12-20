@@ -1,0 +1,2 @@
+D:\Visual Studio\程序设计实验07\Debug\程序设计实验07.exe
+D:\Visual Studio\程序设计实验07\Debug\程序设计实验07.pdb
